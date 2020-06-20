@@ -1,0 +1,26 @@
+[
+  {
+    "name": "beans",
+    "cost": 100,
+    "image": "/assets/beans.png",
+    "description": "finiest quality eggs from organic british farms."
+  },
+  {
+    "name": "bread",
+    "cost": 100,
+    "image": "/assets/bread.png",
+    "description": "finiest quality eggs from organic british farms."
+  },
+  {
+    "name": "eggs",
+    "cost": 100,
+    "image": "/assets/eggs.png",
+    "description": "finiest quality eggs from organic british farms."
+  },
+  {
+    "name": "milk",
+    "cost": 100,
+    "image": "/assets/milk.png",
+    "description": "finiest quality eggs from organic british farms."
+  }
+]

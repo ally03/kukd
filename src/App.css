@@ -1,0 +1,15 @@
+.productContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.product {
+  margin: 20px;
+  width: 250px;
+  min-width: 250px;
+  justify-content: space-evenly;
+}
+
+.header {
+  background: linear-gradient(to right, #febe06 0%, #f7a415 100%);
+}
